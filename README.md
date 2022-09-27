@@ -1,2 +1,2 @@
 # My first repository
-going to make a website for RainyDays
+Making a website for RainyDays.
