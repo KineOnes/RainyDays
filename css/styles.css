@@ -1,0 +1,71 @@
+body.Home
+ { 
+  background: url("../Images/Homepage.jpg") no-repeat center center fixed; 
+    background-size: cover;
+  }
+body.selected_product
+ { 
+  background: url("../Images/Women.jpg") no-repeat center center fixed; 
+    background-size: cover;
+  }
+  body.checkout
+  {
+   background: url("../Images/Mountains\ and\ person.jpg") no-repeat center center fixed;
+   background-size: cover;
+  }
+  body.cart
+  {
+   background: url("../Images/Women.jpg") no-repeat center center fixed;
+   background-size: cover;
+  }
+  body.about
+  {
+   background: url("../Images/Mountains\ and\ person.jpg") no-repeat center center fixed;
+   background-size: cover;
+  }
+  body.products
+  {
+   background: url("../Images/Women.jpg") no-repeat center center fixed;
+   background-size: cover;
+  }
+.text_logo
+ { 
+  position:absolute;
+  top: 30px;
+  left: 30px;
+ }
+  .cta-button {
+    background-color: rgb(185, 107, 13);
+    padding: 15px 80px;
+    border-radius: 8px;
+  }
+  nav li {
+    display:inline-block;
+  }
+  nav a {
+    color:black;
+    text-decoration: none;
+    padding: 30px;
+  }
+  body {
+    font-family:Arial, Helvetica, sans-serif;
+  }
+  a {
+    font-size: 20px;
+    color: white;
+  }
+  main a {
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    padding: 30px
+  }
+  .active {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+  }
+  footer {
+    background-color: rgba(0, 0, 0, 0.58);
+    height: 80px;
+    width: 1600;
+  }
+  
