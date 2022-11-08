@@ -1,0 +1,40 @@
+.selected_product { 
+  background: url("../Images/Women.jpg") no-repeat center center fixed; 
+  background-size: cover;
+}
+
+.checkout {
+  background: url("../Images/Mountains\ and\ person.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
+
+.cart {
+  background: url("../Images/Women.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
+
+.about {
+  background: url("../Images/Mountains\ and\ person.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
+
+.products {
+  background: url("../Images/Women.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
+
+/* TODO: What's this for? */
+
+main {
+  text-align: center;  
+  margin-right: 30px; /* Adjust for misalignment with background image */
+  margin-top: 150px;
+}
+
+main a {
+  text-decoration: none;
+  font-size: 20px;
+  color: white;
+  padding: 30px
+}
+
