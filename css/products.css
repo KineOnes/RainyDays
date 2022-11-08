@@ -19,7 +19,6 @@ body {
     color: rgb(0, 0, 0);
     text-decoration: none;
     padding: 0px 30px;
-
   }
 
   .info {
@@ -42,10 +41,12 @@ body {
     grid-template-columns: 1fr 1fr;  /* 2 columns, each with 1 fraction */
   }
   
-  /*.header-rainydays-logo {
-     Aligns left by default */
+  /* .header-rainydays-logo { 
+
+  } */
+    /* Aligns left by default */
     /* TODO: Anything to be done here? */
-  
+
   
   .header-rainydays-image {
     width: 290px;
@@ -57,9 +58,13 @@ body {
     margin-right: 0;
   }
 
-  /*.rectangle_background { This is overwritten by main width???*/
+  .jacket1 {
+    width: 290px;
+  }
+
+  /*.rectangle_background {} This is overwritten by main width???*/
    
-  
+
   .cta-button {
     background-color: rgb(185, 107, 13);
     padding: 15px 80px;
